@@ -1,0 +1,15 @@
+{
+    "name": "flourence/junior-developer-test-task",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "MfenaKaase",
+            "email": "mfenakaase16@gmail.com"
+        }
+    ],
+    "require": {}
+}
